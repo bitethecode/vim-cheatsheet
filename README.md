@@ -12,9 +12,16 @@ DO not leave the home row! `h`, `j`, `k`, `l` are your best friend from now on :
 `b` - jump back the previous word <br/>
 
 ## Modification
+### Deleting lines
+`dd` - delete a line <br/>
+`{number}dd` - delete next number lines <br/>
+
 ### Substitute chars and lines
-`s` - substitute a character
-`S` - substitute a line
+`s` - substitute a character <br/>
+`S` - substitute a line <br/>
+
+### Search and deleting lines
+`:g/<pattern>/d` - delete all lines containing the <pattern>
 
 
 ## Misc
