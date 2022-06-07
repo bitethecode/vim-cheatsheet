@@ -8,6 +8,8 @@ DO not leave the home row! `h`, `j`, `k`, `l` are your best friend from now on :
 `k` - up <br/>
 `l` - right <br/>
 
+`w` - jump to the next word <br/>
+`b` - jump back the previous word <br/>
 
 
 ## Misc
