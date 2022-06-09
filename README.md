@@ -11,6 +11,12 @@ DO not leave the home row! `h`, `j`, `k`, `l` are your best friend from now on :
 `w` - jump to the next word <br/>
 `b` - jump back the previous word <br/>
 
+`2j` - jump down 2 lines
+`2k` - jump up 2 lines
+
+`0` - jump to the very first character in the line
+`$` - jump to the very last characteer in the line
+
 ## Modification
 ### Deleting lines
 `dd` - delete a line <br/>
@@ -21,7 +27,7 @@ DO not leave the home row! `h`, `j`, `k`, `l` are your best friend from now on :
 `S` - substitute a line <br/>
 
 ### Search and deleting lines
-`:g/<pattern>/d` - delete all lines containing the <pattern>
+`:g/<pattern>/d` - delete all lines containing the pattern
 
 
 ## Misc
