@@ -17,6 +17,11 @@ DO not leave the home row! `h`, `j`, `k`, `l` are your best friend from now on :
 `0` - jump to the very first character in the line
 `$` - jump to the very last characteer in the line
 
+`i` - insert before cursor
+`a` - insert after cursor
+`I` - insert at the beginning of the line
+`A` - insert at the end of the line
+
 ## Modification
 ### Deleting lines
 `dd` - delete a line <br/>
