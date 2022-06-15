@@ -34,6 +34,12 @@ DO not leave the home row! `h`, `j`, `k`, `l` are your best friend from now on :
 ### Search and deleting lines
 `:g/<pattern>/d` - delete all lines containing the pattern
 
+### Search and replace
+`:[range]s/{pattern}/{string}/[flags]`
+
+`%s/foo/bar/g` - replace all occurence of foo with bar 
+`s/foo/bar` - replace foo with bar in the current line
+
 
 ## Misc
 #### make lines lowercase or uppercase 
