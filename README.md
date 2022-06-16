@@ -34,6 +34,9 @@ DO not leave the home row! `h`, `j`, `k`, `l` are your best friend from now on :
 ### Search and deleting lines
 `:g/<pattern>/d` - delete all lines containing the pattern
 
+`f` -  jump to next occurrence of character 
+`F` - jump to the previous occurrence of character 
+
 ### Search and replace
 `:[range]s/{pattern}/{string}/[flags]`
 
