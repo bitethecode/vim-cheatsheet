@@ -37,6 +37,7 @@ DO not leave the home row! `h`, `j`, `k`, `l` are your best friend from now on :
 `f` -  jump to next occurrence of character 
 `F` - jump to the previous occurrence of character 
 
+
 ### Search and replace
 `:[range]s/{pattern}/{string}/[flags]`
 
@@ -45,5 +46,7 @@ DO not leave the home row! `h`, `j`, `k`, `l` are your best friend from now on :
 
 
 ## Misc
+#### jump back to previous cursor
+`ctrl + o`
 #### make lines lowercase or uppercase 
 With visual mode, select text and `u` for lowercase `U` for uppercase
