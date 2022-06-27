@@ -23,6 +23,10 @@ DO not leave the home row! `h`, `j`, `k`, `l` are your best friend from now on :
 `A` - insert at the end of the line
 
 ## Modification
+### Undo and redo
+`u` - undo 
+`ctrl+r` - redo
+
 ### Deleting lines
 `dd` - delete a line <br/>
 `{number}dd` - delete next number lines <br/>
