@@ -44,6 +44,9 @@ DO not leave the home row! `h`, `j`, `k`, `l` are your best friend from now on :
 `%s/foo/bar/g` - replace all occurence of foo with bar 
 `s/foo/bar` - replace foo with bar in the current line
 
+### Clipboard history 
+`:reg` - find the history
+`"1p` - paste what's registered at 1 after the cursor
 
 ## Misc
 #### jump back to previous cursor
