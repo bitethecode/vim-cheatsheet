@@ -28,6 +28,7 @@ DO not leave the home row! `h`, `j`, `k`, `l` are your best friend from now on :
 `ctrl+r` - redo
 
 ### Deleting lines
+`ggdG` - delete all without copying into the clipboard
 `dd` - delete a line <br/>
 `{number}dd` - delete next number lines <br/>
 
